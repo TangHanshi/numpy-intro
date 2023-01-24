@@ -176,3 +176,5 @@ Try answering the following questions to test your understanding of the topics c
     
     Equally spaced numbers in a range
     np.linspace(3, 27, 9)
+
+
